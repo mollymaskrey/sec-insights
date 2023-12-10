@@ -82,17 +82,17 @@ export const TitleAndDropdown = () => {
       </div>
       <div className="mt-28 flex flex-col items-center">
         <div className="w-4/5 text-center text-4xl">
-          Empower your organization&apos;s Business Intelligence with{" "}
+          Healthcare Payer Business Intelligence with{" "}
           <span className="font-bold">SEC Insights </span>
         </div>
         <div className="mt-4 flex items-center justify-center">
           <div className="w-3/5 text-center font-nunito">
-            Effortlessly analyze multifaceted financial documents such as 10-Ks
+            Analyze multifaceted financial documents such as 10-Ks
             and 10-Qs.
           </div>
         </div>
         <div className="mt-4 flex items-center justify-center">
-          <GitHubButton href="https://github.com/run-llama/sec-insights">Open-Sourced on Github</GitHubButton>
+          <GitHubButton href="https://github.com/run-llama/sec-insights">Mollys Personal Github</GitHubButton>
         </div>
       </div>
       {isMobile ? (
